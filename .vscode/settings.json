@@ -1,0 +1,45 @@
+{
+  "editor.suggest.showModules": true,
+  "go.gotoSymbol.includeImports": true,
+  "go.coverageDecorator": {
+    "type": "gutter",
+    "coveredHighlightColor": "rgba(64,128,128,0.05)",
+    "uncoveredHighlightColor": "rgba(128,64,64,0.05)",
+    "coveredGutterStyle": "blockblue",
+    "uncoveredGutterStyle": "slashyellow",
+  },
+  "go.testOnSave": true,
+  "go.coverOnSave": true,
+  "go.lintOnSave": "workspace",
+  "go.lintTool": "golangci-lint",
+  "go.testFlags": [
+    //"-i"
+    //"-v"
+  ],
+  "[go]": {
+    "editor.insertSpaces": true,
+  },
+  "go.useLanguageServer": false,
+  "go.languageServerFlags": [
+    //"-modfile ./go.mod"
+  ],
+  "go.lintFlags": [],
+  "go.vetOnSave": "off",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.terraform": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/__debug_bin": true,
+  },
+  "go.enableCodeLens": {
+    "references": true,
+    "runtest": true
+  },
+  "window.title": "${rootName}",
+  "go.useCodeSnippetsOnFunctionSuggest": false,
+  "debug.focusWindowOnBreak": false,
+  "editor.formatOnSave": true,
+}
