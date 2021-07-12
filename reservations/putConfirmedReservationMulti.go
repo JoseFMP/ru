@@ -4,9 +4,9 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru"
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru/quotes"
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru/utils"
+	"github.com/JoseFMP/ru"
+	"github.com/JoseFMP/ru/quotes"
+	"github.com/JoseFMP/ru/utils"
 )
 
 func (config *reservationsHandlerConfig) PutConfirmedReservationMulti(params *ConfirmedReservationParams,

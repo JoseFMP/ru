@@ -3,7 +3,7 @@ package reservations
 import (
 	"testing"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru"
+	"github.com/JoseFMP/ru"
 	"github.com/stretchr/testify/assert"
 )
 

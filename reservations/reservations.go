@@ -3,8 +3,8 @@ package reservations
 import (
 	"time"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru"
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru/quotes"
+	"github.com/JoseFMP/ru"
+	"github.com/JoseFMP/ru/quotes"
 )
 
 type ReservationsHandler interface {

@@ -6,8 +6,8 @@ import (
 	"log"
 	"time"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru"
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru/utils"
+	"github.com/JoseFMP/ru"
+	"github.com/JoseFMP/ru/utils"
 )
 
 var phuketRegionLocationAsString = fmt.Sprintf("%d", ru.GetAllLocations().PhuketRegion.LocationID)

@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru"
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru/quotes"
+	"github.com/JoseFMP/ru"
+	"github.com/JoseFMP/ru/quotes"
 
 	"github.com/stretchr/testify/assert"
 )

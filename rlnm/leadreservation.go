@@ -3,7 +3,7 @@ package rlnm
 import (
 	"encoding/xml"
 
-	
+	"github.com/JoseFMP/ru"
 )
 
 type PutLeadReservation struct {

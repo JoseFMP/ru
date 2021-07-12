@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru"
+	"github.com/JoseFMP/ru"
 )
 
 func (clientConfig *propertyClientConfig) ListSpecificProperty(propertyID ru.BasePropertyID) (*SpecificPropertyResponsePayload, error) {

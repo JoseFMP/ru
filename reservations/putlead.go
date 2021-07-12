@@ -6,7 +6,7 @@ import (
 	"log"
 	"strconv"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru"
+	"github.com/JoseFMP/ru"
 )
 
 func (config *reservationsHandlerConfig) PutLead(lead *PutLeadRequest) (ru.ReservationID, error) {

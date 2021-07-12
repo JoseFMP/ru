@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru/utils"
+	"github.com/JoseFMP/ru/utils"
 	"github.com/stretchr/testify/assert"
 )
 

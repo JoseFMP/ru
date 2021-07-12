@@ -1,5 +1,5 @@
-dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru v0.0.0-20200925081405-dd36b5486544 h1:GM9apn/KhzQOxg+93kMu065E3cTfvTOnJl5iqmG/tjw=
-dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru v0.0.0-20200925081405-dd36b5486544/go.mod h1:6alW8seWavRFkLKeE2OVF4dyu30X2F/0EEPRwM4UbDs=
+github.com/JoseFMP/ru v0.0.0-20200925081405-dd36b5486544 h1:GM9apn/KhzQOxg+93kMu065E3cTfvTOnJl5iqmG/tjw=
+github.com/JoseFMP/ru v0.0.0-20200925081405-dd36b5486544/go.mod h1:6alW8seWavRFkLKeE2OVF4dyu30X2F/0EEPRwM4UbDs=
 github.com/apache/pulsar-client-go v0.1.0/go.mod h1:G+CQVHnh2EPfNEQXOuisIDAyPMiKnzz4Vim/kjtj4U4=
 github.com/beefsack/go-rate v0.0.0-20180408011153-efa7637bb9b6/go.mod h1:6YNgTHLutezwnBvyneBbwvB8C82y3dcoOj5EQJIdGXA=
 github.com/bmizerany/perks v0.0.0-20141205001514-d9a9656a3a4b/go.mod h1:ac9efd0D1fsDb3EJvhqgXRbFx7bs2wqZ10HQPeU8U/Q=

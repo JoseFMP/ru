@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru"
+	"github.com/JoseFMP/ru"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru/utils"
+	"github.com/JoseFMP/ru/utils"
 )
 
 func CanUseListReservations(now time.Time, from time.Time, to time.Time) bool {

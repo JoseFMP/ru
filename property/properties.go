@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru"
+	"github.com/JoseFMP/ru"
 )
 
 type PropertyClient interface {

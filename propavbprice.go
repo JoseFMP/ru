@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru/utils"
+	"github.com/JoseFMP/ru/utils"
 )
 
 func (clientConfig *ClientConfig) GetPropertyAveragePrice(propertyID BasePropertyID, from time.Time, to time.Time) ([]PropertyPrice, error) {

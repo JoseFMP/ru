@@ -1,4 +1,4 @@
-module dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru
+module github.com/JoseFMP/ru
 
 go 1.13
 

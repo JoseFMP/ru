@@ -6,9 +6,9 @@ import (
 	"log"
 	"time"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru/utils"
+	"github.com/JoseFMP/ru/utils"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru"
+	"github.com/JoseFMP/ru"
 )
 
 func (client *reservationsHandlerConfig) ModifyStay(res ru.ReservationID, currentStay CurrentStay, newAlreadyPaid *float64) error {

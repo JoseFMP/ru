@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"dev.azure.com/noon-homa/RentalsUnitedGoClient/_git/ru/utils"
+	"github.com/JoseFMP/ru/utils"
 )
 
 func (clientConfig *ClientConfig) ListAvailabilityCalendar(from time.Time, to time.Time, propertyID BasePropertyID) (*CalendarChunk, error) {
